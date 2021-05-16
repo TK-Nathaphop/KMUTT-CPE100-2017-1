@@ -1,5 +1,5 @@
 # KMUTT-CPE100-2017-1
-Nathaphop's work from KMUTT CPE 100 class.
+My work from Programming language class (CPE100) in KMUTT. work from KMUTT CPE 100 class.
 
 Note that Description file in each folder is the the latest update. It could cause code doesn't work as the description file.
 Because it is a description file that I can derived from [windu.cpe.kmutt.ac.th](windu.cpe.kmutt.ac.th)
