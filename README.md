@@ -14,3 +14,4 @@ You can go through each directory and then use these commands to run the code.
 In some lab/project, it already has `MAKEFILE`. You can use only
 
 `make` to compile all .c file. Then find the execute file and use command `./filename`.
+And you can clean all file by using `make clean`
