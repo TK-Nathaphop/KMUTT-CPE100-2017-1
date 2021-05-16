@@ -1,0 +1,47 @@
+Event Code: 2016-0001
+Event has been deleted
+
+Event Code: 2017-0001
+Date and Time Event: 20/01/2017 12:00
+Name Person Reportor: Mr.Saab Settha
+Phone Number: 097-9659654
+Type of Event: V,Z,O
+Latitude: 10.0956
+Longitude: 100.5622
+Date and Time Investigate: 21/02/2017 21:30
+Name Person Investigating: Mr.Kla Natha
+Result: SUCCESS
+
+Event Code: 2017-0002
+Date and Time Event: 23/10/2017 10:00
+Name Person Reportor: Satoshi
+Phone Number: 02-9123926
+Type of Event: W,G
+Latitude: 11.9999
+Longitude: 99.9999
+Date and Time Investigate: 25/11/2017 19:59
+Name Person Investigating: Kojira
+Result: FAILURE
+
+Event Code: 2017-0003
+Date and Time Event: 03/06/2017 17:59
+Name Person Reportor: Muzashi
+Phone Number: 02-5295626
+Type of Event: G,O,Z
+Latitude: 10.9900
+Longitude: 100.0101
+Date and Time Investigate: 09/10/2017 18:40
+Name Person Investigating: Rocket
+Result: SUCCESS
+
+Event Code: 2017-0004
+Date and Time Event: 09/09/2017 00:59
+Name Person Reportor: Hoito
+Phone Number: 090-9659152
+Type of Event: O,W
+Latitude: 10.9900
+Longitude: 100.0101
+Date and Time Investigate: 10/09/2017 00:00
+Name Person Investigating: Conan
+Result: UNKNOWN
+
